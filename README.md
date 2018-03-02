@@ -21,3 +21,12 @@ Addtional information
 -
 The installation under Windows 10 is described in the Wiki:
 https://github.com/kosmas58/pia-docker/wiki/Installation-under-Windows-10
+
+Connect the frontend (or client app) to the backend
+-
+
+- Press "Start" in the PIA frontend or client
+- Then in frontend or client set this URL to enable the server mode.
+- Fill the field in "Tools" > "Settings"
+
+![PIA Settings](docker/pia-settings.png)
